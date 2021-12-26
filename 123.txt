@@ -1,0 +1,5 @@
+{
+	"ip":"colab1212.aternos.me",
+	"port": "35536",
+	"name": "afkbot"
+}
